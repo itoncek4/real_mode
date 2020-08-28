@@ -2,20 +2,20 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "SteelOre",
-      "type": "block",
-      "sortid": 2,
-      "compiles": false,
+      "name": "Steel",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "steel_ore"
+      "registry_name": "steel"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.real_mode.steel_ore": "Steel Ore"
+      "item.real_mode.steel": "Steel"
     }
   },
   "workspaceSettings": {
