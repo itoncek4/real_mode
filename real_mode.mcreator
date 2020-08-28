@@ -1,22 +1,10 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "SteelOre",
-      "type": "block",
-      "sortid": 2,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "steel_ore"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.real_mode.steel_ore": "Steel Ore"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "real_mode",
